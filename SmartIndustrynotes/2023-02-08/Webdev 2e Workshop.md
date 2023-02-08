@@ -1,2 +1,0 @@
-Voor webdev heb ik vandaag meegedaan aan de workshopopdracht.
-Ik heb in feite een JSON naar HTML converter gebouwd, hij maakt gebruik van de openweather API maar ik heb hem zo omgezet naar iets anders.
