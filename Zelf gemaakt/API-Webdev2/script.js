@@ -1,8 +1,18 @@
+var url = new URL(window.location.href);
+
+
 let openWeatherAPIKey = "470a2bc170aff5f6a12564dd51ca296b"; //PLS don't steal my key
-let city = "Posterenk";
+let city = url.searchParams.get("city") || "Posterenk";
 let APIUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${openWeatherAPIKey}`;
 
-let dgId = (a) => { return document.getElementById(a); };
+function doChange(event){
+    let input = document.getElementById("city");
+    console.log(input);
+    console.log(input.value);
+    url.searchParams.set("city", input.value);
+    window.location.replace(url.toString());
+    return false;
+}
 
 function doLine(text, parent) {
     let s = document.createElement("span");
