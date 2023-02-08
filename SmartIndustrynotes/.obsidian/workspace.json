@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e38d18faba5318fa",
+        "id": "2340dc356927c4d4",
         "type": "tabs",
         "children": [
           {
-            "id": "7696a39bb0b6f764",
+            "id": "9d863440a581c1bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-02-08/Business Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "451b75e4b0d8b572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-02-08/Portfolio guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "051846ac5e21e7c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-02-08/Webdev 2e Workshop.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-02-08/Business Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-02-08/Business Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-02-08/Business Notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -170,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7696a39bb0b6f764",
+  "active": "9d863440a581c1bd",
   "lastOpenFiles": [
     "2023-02-08/Webdev 2e Workshop.md",
     "2023-02-08/Portfolio guide.md",
