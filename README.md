@@ -4,6 +4,6 @@
 
 # Workshop 1
 
-[HTML](./webdev1/HTML.html)
+[HTML](./Van%20oude%20repo/webdev1/HTML.html)
 
-[HTML+CSS+BOOTSTRAP](./webdev1/HTML.html)
+[HTML+CSS+BOOTSTRAP](./Van%20oude%20repo/webdev1/HTML.html)
